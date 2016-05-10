@@ -1,0 +1,15 @@
+body {
+	width: 75%;
+	margin: auto;
+}
+header {
+	float: right;
+}
+header h1 {
+	color: #7d0504;
+	font-size: 2.5em;
+}
+ul li a {
+	text-decoration: none;
+	color: black;
+}
